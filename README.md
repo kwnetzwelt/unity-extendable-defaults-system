@@ -41,7 +41,14 @@ By added meta data to your classes you can make properties and fields accessible
 
 _Is there more help?_
 
-Read the "Getting started.txt" for more info and have a look at the demo implementations (Demo1.cs, Demo2.cs, Demo3.cs, ExampleClass.cs and Example2.cs)
+Read the [getting started](Getting started.txt) for more info and have a look at the demo implementations 
+
+- [Demo1.cs](ueds-unity/Assets/UEDS/Example/Demo1.cs)
+- [Demo2.cs](ueds-unity/Assets/UEDS/Example/Demo2.cs)
+- [Demo3.cs](ueds-unity/Assets/UEDS/Example/Demo3.cs)
+- [ExampleClass.cs](ueds-unity/Assets/UEDS/Example/ExampleClass.cs)
+- [ExampleClass2.cs](ueds-unity/Assets/UEDS/Example/ExampleClass2.cs)
+
 
 ___________
 
