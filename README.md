@@ -6,6 +6,8 @@ Outline
 
 This set of source code provides support for flexible and extendable serialization of data as well as editors for each type of data. It will work within the current version of Unity3D Editor and Runtime. 
 
+![Screenshot](/screenshot.png "UEDS Editor Window")
+
 License
 -------
 
