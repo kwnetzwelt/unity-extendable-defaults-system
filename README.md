@@ -39,6 +39,13 @@ By added meta data to your classes you can make properties and fields accessible
 
 ___________
 
+TODO
+----
+
+- [ ] Custom Names for instances
+- [ ] Implement duplicate instance
+- [ ] Implement remove instance
+
 Attribution
 -----------
 
