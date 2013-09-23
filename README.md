@@ -37,14 +37,12 @@ _What can it actually do?_
 
 By added meta data to your classes you can make properties and fields accessible in a nice editor window. Also you can extend this window with custom editors for your custom data types. You can then save your settings to file or load from them. Finally it can Deserialize Data for you and inject it to your class at runtime.
 
+_Is there more help?_
+
+Read the "Getting started.txt" for more info and have a look at the demo implementations (Demo1.cs, Demo2.cs, Demo3.cs, ExampleClass.cs and Example2.cs)
+
 ___________
 
-TODO
-----
-
-- [ ] Custom Names for instances
-- [ ] Implement duplicate instance
-- [ ] Implement remove instance
 
 Attribution
 -----------

@@ -1,0 +1,31 @@
+# demo 1
+
+1. Open Window > Editor Settings
+2. Select "Example" and set a value
+3. Click "Save"
+4. Select "_Initializer" GameObject 
+5. Assign "ExampleClass" GameObject to "Class To Init" property on "Demo 1" Component
+
+6. Hit Play
+7. Notice the assigned values on the "ExampleClass" GameObject
+
+# demo 2
+
+1. Open Window > Editor Settings
+2. Select "ExampleClass2"
+3. Add another instance
+4. Set some values
+5. Click "Save"
+6. Select "ExampleClass2_1" GameObject and set "MInstance Name" to whatever you just setup
+7. Hit Play
+
+# demo 3
+
+1. Open Window > Editor Settings
+2. Select "Example"
+3. Set some values
+4. Click "Save As"
+
+5. Select "_Initializer" GameObject
+6. Set "MFile Name" on "Demo3" GameComponent to whatever you just setup
+7. Hit Play
